@@ -1,0 +1,13 @@
+# first, you need python 3.10
+
+pydub
+gtts
+pysimplegui
+opencv-python
+opencv-contrib-python
+ffmpeg-python
+websocket-client
+pyopenssl
+urllib3
+requests
+bs4
